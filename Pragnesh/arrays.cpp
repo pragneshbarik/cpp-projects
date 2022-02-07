@@ -1,5 +1,3 @@
-// Pragnesh Barik
-
 #include<iostream>
 #include <bits/stdc++.h>
 
